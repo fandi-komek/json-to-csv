@@ -1,11 +1,31 @@
 {
+  "_from": "json-to-csv-download@^1.0.0",
+  "_id": "json-to-csv-download@^1.0.0",
+  "_inBundle": false,
+  "_location": "/json-to-csv",
   "name": "json-to-csv",
   "version": "1.0.0",
-  "description": "Function Download JSON to CSV files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'no tests yet !'"
   },
-  "author": "Fandi <komekbtn@gmail.com>",
-  "license": "MIT"
+  "author": {
+    "name": "Fandi Komek",
+    "email": "komekbtn@gmail.com"
+  },
+  "bundleDependencies":false,
+  "dependencies": {},
+  "deprecated": false,
+  "description":"Function to download JSON into CSV in React.JS",
+  "keywords": [
+    "json",
+    "csv",
+    "download",
+    "react"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fandi-komek/json-to-csv.git"
+  }
 }
