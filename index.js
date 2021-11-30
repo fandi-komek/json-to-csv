@@ -1,7 +1,7 @@
 //'use strict';
 /** 
  * Function to export JSON into CSV files
- * Created by : Fandi
+ * Author : Fandi
  * accept 3 parameter:
  * data : JSON format
  * filename : filename with csv extensions file (default: 'download.csv')
