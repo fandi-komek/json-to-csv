@@ -25,6 +25,8 @@ handleExportJsonToCsv(e) {
     // do anything else after download
 }
 
+...
+
 <button onClick={(e) => {this.handleExportJsonToCsv(e);}}>
     Download Data
 </button>
