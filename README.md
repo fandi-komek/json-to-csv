@@ -1,13 +1,6 @@
 # Download JSON data to CSV
 A simple function to download JSON data into CSV files in React.JS
 
-## Install:
-
-Install with npm:
-```sh
-npm i --save json-to-csv
-```
-
 ## Example Usage:
 ```html
 import ExportJsonToCsv from "../function/json-to-csv";
